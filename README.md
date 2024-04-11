@@ -10,16 +10,6 @@ ___Note: This project's dataset was created for pedagogical purposes and may not
 
 ### Project background
 Automatidata is working on the TLC project. The following tasks are needed before the team can begin the data analysis process:
-
-1. EDA and cleaning
-
-2. Select and build visualization(s) type
-
-3. Create plots to visualize relationships between relevant variables
-
-4. Share your results with the Automatidata team
-
-Your assignment
-You will conduct exploratory data analysis on data for the TLC project. You’ll also use Tableau to create visuals for an executive summary to help non-technical stakeholders engage and interact with the data.
+Exploratory data analysis on data for the TLC project. Also use Tableau to create visuals for an executive summary to help non-technical stakeholders engage and interact with the data.
 
 
